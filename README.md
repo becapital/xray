@@ -12,10 +12,16 @@ Xray 一键脚本可以配置常规 VMESS 协议、VMESS+KCP、VMESS+websocket+T
 
 -------------------------------------------
 升级Ubuntu14.06=  
-apt-get update   
+
+apt-get update 
+
 apt-get upgrade
+
 apt-get dist-upgrade
+
 do-release-upgrade
+
 重启：
+
 lsb_release -a
 --------------------------------------------
