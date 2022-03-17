@@ -25,3 +25,4 @@ do-release-upgrade
 
 lsb_release -a
 --------------------------------------------
+一键原文： https://v2xtls.org/xray%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC/
